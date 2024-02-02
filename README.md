@@ -27,3 +27,4 @@ resource "regru_server" "kvm_server" {
     token = "your api token"
 }
 ```
+**ONLY WORK WITH Terraform v0.11.11 https://releases.hashicorp.com/terraform/0.11.11/**
